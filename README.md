@@ -1,8 +1,4 @@
-countdown
-=========
+# Countdown
+A bare bones javascript countdown timer.
 
-a bare bones javascript countdown timer
-
-see example.html and example.css
-
-<img src="http://i.imgur.com/I0iVh.png">
+See [countdown.html](countdown.html) and [countdown.html](countdown.html).
